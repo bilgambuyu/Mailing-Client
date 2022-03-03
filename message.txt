@@ -1,0 +1,7 @@
+Hey!
+
+This is a mail sent with Python!
+Amanzing, right?
+
+Kind Regards!
+Blacks1de
